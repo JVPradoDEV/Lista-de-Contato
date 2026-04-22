@@ -58,7 +58,7 @@ const removeContato = () => {
 
     return(
           <CardBody>
-            <PFP src="/src/assets/pfp_placeholder.jpg" />
+            <PFP src="https://png.pngtree.com/png-vector/20250512/ourmid/pngtree-default-avatar-profile-icon-gray-placeholder-vector-png-image_16213764.png" />
             <ContainerCard>
               <DivCard>
                 <label>Nome Completo:</label>

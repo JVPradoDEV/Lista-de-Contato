@@ -29,7 +29,7 @@ const NovoContato = () => {
         <>
         <h1>Novo Contato</h1>
     <AddBody onSubmit={salvar}>
-        <img src="/src/assets/pfp_placeholder.jpg"/>
+        <img src="https://png.pngtree.com/png-vector/20250512/ourmid/pngtree-default-avatar-profile-icon-gray-placeholder-vector-png-image_16213764.png"/>
         <AddContainer>
             <AddDiv>
                 <label>Nome Completo:</label>
